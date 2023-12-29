@@ -31,42 +31,22 @@ Install dependencies
   npm install
 ```
 
-```bash
-  cd frontend/
-  npm install
-```
-
 Start the server
 
 ```bash
-  npm run start
-```
-Start the Client
-
-```bash
-  //open new terminal
-  cd frontend
-  npm start
+  node app.js
 ```
 
   
 # Features
 
-### User Authentication
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/login.png)
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/signup.png)
-### Real Time Chatting with Typing indicators
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/chat.png)
-### One to One chat
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/one-one-chat.png)
-### Search Users
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/Search.png)
-### Create Group Chats
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/groupchat.png)
-### Notifications 
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/notification.png)
-### Admin Control in groups
-![](https://github.com/Ajeetesh2003/ChatSter2.0/blob/master/screenshots/admincontrol.png)
+### List
+![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/list.png)
+### Deletes items from the list (for a clean look)
+![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/beforedelete.png)
+![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/afterdelete.png)
+### Create any Custom list
+![](https://github.com/Ajeetesh2003/To-Do-List/blob/master/screenshots/customlist.png)
 
 # Author Information
 
